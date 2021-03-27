@@ -1,0 +1,22 @@
+{
+  "id":"deltics.io.shellapi",
+  "version":"",
+  "summary":"A collection of wrappers and utilities to simplify working with ShellApi routines.",
+  "tags":[
+    "deltics",
+    "shellapi"
+  ],
+  "copyright":"\u00a92020 Jolyon Direnko-Smith",
+  "language":"en",
+  "content":"source",
+  "dependencies":[
+    "deltics.inc:1.3.0",
+    "deltics.io.path:1.0.0"
+  ],
+  "source":{
+      "files":[
+        "src\\deltics.io.shellapi.inc",
+        "src\\Deltics.IO.ShellApi.pas"
+      ]
+    }
+}
